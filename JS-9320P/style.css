@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to right, #000000, #1a1a1a);
+    color: yellow;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .card {
+    margin: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    transition: transform 0.2s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.03);
+  }
+  
